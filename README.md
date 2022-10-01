@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/114464452/193412010-5994c13d-825c-4ef5-95c6-6e412b11f216.png)
 # Hacktoberfest22-Advanced-DSA 
 ## About
 This Repository's sole purpose is to help beginners and as well as experienced people contribute to Open Source Programming. The repository consists of a large number of advanced DSA algorithms implemented particularly in JAVA. Any other language is also accepted.
@@ -37,6 +38,6 @@ git push
 * We will check if its a valid pull request and merge it
 
 ### If you find this repository Helpful consider leaving a :star:
-![image](https://user-images.githubusercontent.com/114464452/193411944-adf74153-a897-4656-ad53-906efdd8d71e.png)
+
 
 
