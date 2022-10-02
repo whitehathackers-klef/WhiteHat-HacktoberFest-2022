@@ -1,21 +1,20 @@
 ![image](https://user-images.githubusercontent.com/114464452/193412010-5994c13d-825c-4ef5-95c6-6e412b11f216.png)
-# Hacktoberfest22-Advanced-DSA 
+# Hacktoberfest22-WhiteHatHackers 
 ## About
-This Repository's sole purpose is to help beginners and as well as experienced people contribute to Open Source Programming. The repository consists of a large number of advanced DSA algorithms implemented particularly in JAVA. Any other language is also accepted.
+This Repository's sole purpose is to help beginners and as well as experienced people contribute to Security as code. The repository consists of a large number of Source codes in various languages as the control backbone and the automation engine for security and compliance.
 
 Some of the topics include :
 
-* Array and String special algorithms
-* Searching and Sorting algorithms
-* Stacks and Queues
-* Linked Lists
-* Recursion
-* Binary Trees
-* Binary Search Trees
-* Graphs
-* Greedy Algorithms
-* Dynamic Programming
-* Tries
+* Encryption
+* Decryption
+* Key logging
+* Network analysis
+* Network mapping
+* Vulnerability assessment
+* Sub-domain enumeration
+* Webapplication security
+* OWASP ( password strength testing )
+* Virus Detection
 
 As a part of Hacktoberfest Code of Conduct no spamming or irrelevant PRs will be accepted.
 
@@ -29,9 +28,9 @@ As a part of Hacktoberfest Code of Conduct no spamming or irrelevant PRs will be
 - Add a README.md file to the folder explaining the code with proper documentation
 - Open the command prompt and cd into the repository folder
 - Run the following Commands
-git add .
-git commit -m"<Name of your Algorithm>"
-git push
+- git add .
+- git commit -m "<Name of your Algorithm>"
+- git push
 
 * Come back to Github and Open a Pull Request
 * While making Pull Request maintain the template provided to you
